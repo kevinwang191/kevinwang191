@@ -1,9 +1,8 @@
 # 👋 Hi, I'm Kevin!
 👩🏻‍💻 Software Engineer sharing some of my projects<br/>
 👩🏻‍🎓 Studied Computer Science at the University of Sydney, Australia <br/>
-🎨 Making videos about Computer Science, tech, and productivity on [YouTube](https://www.youtube.com/c/MagdelineHuang)<br/>
-🌷 #learninginpublic in my [digital garden](https://magdelinehuang.com/)<br/>
-💭 Currently learning about data analytics and [dataviz](https://pudding.cool/2018/08/pockets/)!<br/>
+🎨 If you would like to work together or have any questions, email me: kevinwang191@gmail.com <br/>
+💭 Currently learning more about backend development!<br/>
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 ![](https://github-readme-stats.vercel.app/api?username=kevinwang191&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
